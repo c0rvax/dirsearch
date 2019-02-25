@@ -2157,7 +2157,6 @@ blogs
 bluadmin
 bmadmin
 bnt_admin
-bo0om.ru
 boadmin
 board
 boardadmin
